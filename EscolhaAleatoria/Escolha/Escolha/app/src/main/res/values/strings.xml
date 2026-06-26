@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">I Choose You!</string>
+    <string name="app_icon_emoji">🎬</string>
+    <string name="app_title">I Choose You!</string>
+    <string name="app_subtitle">Your movie night, decided.</string>
+    <string name="choose_button">Choose!</string>
+    <string name="tonight_watch">TONIGHT WE WATCH</string>
+    <string name="genres_label">Select genres to include</string>
+    <string name="add_genre_button">Add genre</string>
+    <string name="history_label">Last picks</string>
+    <string name="add_genre_title">Add a genre</string>
+    <string name="genre_input_hint">Genre name</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="no_genres_title">No genres selected</string>
+    <string name="no_genres_message">Please select at least one genre before choosing.</string>
+</resources>

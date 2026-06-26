@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Clapperboard body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,46 L80,46 L80,82 Q80,84 78,84 L30,84 Q28,84 28,82 Z" />
+
+    <!-- Clapperboard top bar (dark) -->
+    <path
+        android:fillColor="#1A1A2E"
+        android:pathData="M26,36 L82,36 Q84,36 84,38 L84,46 L24,46 L24,38 Q24,36 26,36 Z" />
+
+    <!-- Clapperboard stripes on top bar -->
+    <path
+        android:fillColor="#FF3D5A"
+        android:pathData="M30,36 L38,36 L34,46 L26,46 Z" />
+    <path
+        android:fillColor="#FF3D5A"
+        android:pathData="M44,36 L52,36 L48,46 L40,46 Z" />
+    <path
+        android:fillColor="#FF3D5A"
+        android:pathData="M58,36 L66,36 L62,46 L54,46 Z" />
+    <path
+        android:fillColor="#FF3D5A"
+        android:pathData="M72,36 L80,36 L76,46 L68,46 Z" />
+
+    <!-- Film lines on body -->
+    <path
+        android:fillColor="#E8E0F0"
+        android:pathData="M34,56 L74,56 Q75,56 75,57 L75,59 Q75,60 74,60 L34,60 Q33,60 33,59 L33,57 Q33,56 34,56 Z" />
+    <path
+        android:fillColor="#E8E0F0"
+        android:pathData="M34,64 L74,64 Q75,64 75,65 L75,67 Q75,68 74,68 L34,68 Q33,68 33,67 L33,65 Q33,64 34,64 Z" />
+    <path
+        android:fillColor="#E8E0F0"
+        android:pathData="M34,72 L60,72 Q61,72 61,73 L61,75 Q61,76 60,76 L34,76 Q33,76 33,75 L33,73 Q33,72 34,72 Z" />
+
+    <!-- Star accent -->
+    <path
+        android:fillColor="#FF8C42"
+        android:pathData="M70,68 L72,73 L77,73 L73,76 L75,81 L70,78 L65,81 L67,76 L63,73 L68,73 Z" />
+
+</vector>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="brand_primary">#FF3D5A</color>
+    <color name="brand_secondary">#FF8C42</color>
+    <color name="accent">#FF3D5A</color>
+
+    <!-- Backgrounds -->
+    <color name="background">#FFF8F8</color>
+    <color name="card_result_background">#FFF0F2</color>
+    <color name="card_result_stroke">#FFCCD4</color>
+    <color name="card_history_background">#FFFFFF</color>
+    <color name="card_history_stroke">#F0E8E8</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#888899</color>
+    <color name="result_text">#FF3D5A</color>
+
+    <!-- Button -->
+    <color name="button_background">#FF3D5A</color>
+    <color name="button_text">#FFFFFF</color>
+
+    <!-- Chips -->
+    <color name="chip_checked_bg">#FF3D5A</color>
+    <color name="chip_unchecked_bg">#F5F0F0</color>
+    <color name="chip_checked_text">#FFFFFF</color>
+    <color name="chip_unchecked_text">#888899</color>
+
+    <!-- System -->
+    <color name="colorPrimary">#FF3D5A</color>
+    <color name="colorPrimaryVariant">#CC2040</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#FF8C42</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnSurface">#1A1A2E</color>
+    <color name="colorBackground">#FFF8F8</color>
+    <color name="colorOnBackground">#1A1A2E</color>
+</resources>
